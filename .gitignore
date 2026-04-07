@@ -1,0 +1,9 @@
+# Entornos virtuales y librerías
+Programing/Lib/
+Programing/Scripts/
+Programing/Include/
+.venv/
+__pycache__/
+.idea/
+*.pyd
+*.dll
